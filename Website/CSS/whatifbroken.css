@@ -1,0 +1,25 @@
+body {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+	color: #ffffff;
+	background-image: url("../Images/galaxy.jpg");
+
+	-webkit-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #ffffff;
+	font-size: 17px;
+}
+
+iframe {
+	border: 0px;
+	display: block;
+	margin: 0 auto;
+}

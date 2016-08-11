@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"> <!-- Note: to make this sliding Nav Bar, I used the CSS and JavaScript from this concept: http://www.onextrapixel.com/2013/06/24/creating-a-swipeable-side-menu-for-the-web/ -->
+
+<head>
+  <meta charset="utf-8">
+	<title>History</title>
+	<link rel="stylesheet" type="text/css" href="../CSS/NavMenu.css"/>
+  <link rel="stylesheet" type="text/css" href="../CSS/history.css"/>
+  <script type="text/javascript" src="../JavaScript/jquery-1.11.2.js"></script>
+  <script type="text/javascript" src="../JavaScript/jquery.touchSwipe.min.js"></script>
+  <script type="text/javascript" src="../JavaScript/NavMenu.js"></script>
+</head>
+
+<body>
+
+	<div class="container">
+		<div id="sidebar">
+          <ul>
+              <li><a href="home.html">Home</a></li>
+              <li><a href="howitworks.html">How It Works</a></li>
+              <li><a href="history.html">History</a></li>
+              <li><a href="whatifbroken.html">What If It Breaks?</a></li>
+          </ul>
+    </div>
+
+    <div class="main-content">
+    	<div class="swipe-area"></div>
+    	<a href="#" data-toggle=".container" id="sidebar-toggle">
+    		<span class="bar"></span>
+    		<span class="bar"></span>
+    		<span class="bar"></span>
+    	</a>
+
+    	<div class="content">
+
+        <iframe src='../Timeline/index.html'></iframe>
+
+</div>
+</div>
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+body, html {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+}
+
+iframe {
+	border: 0px;
+	width: 100%;
+	height: 700px;
+}

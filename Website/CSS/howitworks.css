@@ -1,0 +1,86 @@
+body {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+	background-image: url("../Images/blueprint.png");
+
+	-webkit-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+}
+
+p, ol, ul {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #ffffff;
+	font-size: 17px;
+}
+
+#googlequote {
+	text-align: center;
+	color: #000000;
+	font-weight: 700;
+}
+
+#internetminute {
+	float: right;
+	padding: 40px;
+}
+
+#ipconnect {
+	padding: 20px;
+}
+
+#ipheader {
+	display: block;
+	margin: 0 auto;
+	padding: 25px;
+	background-color: #ffffff;
+	background-size: 10px;
+	border: 1px solid black;
+	opacity:0.5;
+}
+
+#protocolstack {
+	display: block;
+	margin: 0 auto;
+	padding: 25px;
+	background-color: #ffffff;
+	background-size: 10px;
+	border: 1px solid black;
+	opacity:0.5;
+}
+
+#tcpheader {
+	display: block;
+	margin: 0 auto;
+	padding: 25px;
+	background-color: #ffffff;
+	background-size: 10px;
+	border: 1px solid black;
+	opacity:0.5;
+}
+
+.code {
+	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+	color: #000000;
+	padding: 25px;
+	background-color: #ffffff;
+	background-size: 10px;
+	border: 1px solid black;
+	opacity:0.5;
+	margin-right: 50%;
+}
+
+#cswitching {
+	display: block;
+	float: left;
+	padding-right: 50px;
+	margin-left: 30%;
+}
+
+#pswitching {
+	display: block;
+
+}

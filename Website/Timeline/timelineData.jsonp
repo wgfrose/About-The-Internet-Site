@@ -1,0 +1,242 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"The History Of The Internet",
+        "type":"default",
+        "text":"A breif history of the inception and evolution of the Internet",
+        "asset": {
+            "media":"../Images/History/1.jpeg",
+            "credit":"http://habrahabr.ru/post/144978/",
+            "caption":"The Internet from The IT Crowd"
+        },
+        "date": [
+            {
+                "startDate":"1957",
+                "endDate":"1957",
+                "headline":"Potential Origin of the Internet",
+                "text":"The USSR launches Sputnik, the first artificial earth satellite. In response, the United States forms the Advanced Research Projects Agency (ARPA) within the Department of Defense (DoD) to establish US lead in science and technology applicable to the military.",
+                "asset":
+                {
+                    "media":"../Images/History/2.jpg",
+                    "thumbnail":"../Images/History/2.jpg",
+                    "credit":"http://www.satobs.org/sputnik1rocketbaltimore.html",
+                    "caption":"The Sputnik Satellite"
+                }
+            },
+            {
+                "startDate":"1962",
+                "headline":"Paul Baran's RAND Proposal",
+                "text":"Paul Baran, of the RAND Corporation (a government agency), was commissioned by the U.S. Air Force to do a study on how it could maintain its command and control over its missiles and bombers, after a nuclear attack. This was to be a military research network that could survive a nuclear strike, decentralized so that if any locations (cities) in the U.S. were attacked, the military could still have control of nuclear arms for a counter-attack. Baran's finished document described several ways to accomplish this. His final proposal was a packet switched network.",
+                "asset":
+                {
+                    "media":"../Images/History/Baran.jpg",
+                    "thumbnail":"../Images/History/Baran.jpg",
+                    "credit":"http://www.ibiblio.org/pioneers/baran.html",
+                    "caption":"Paul Baran of RAND"
+                }
+            },
+            {
+                "startDate":"1969",
+                "headline":"ARPA's ARPANET Contract",
+                "text":"ARPA awarded the ARPANET contract to BBN. The physical network was constructed in 1969, linking four nodes: University of California at Los Angeles, SRI (in Stanford), University of California at Santa Barbara, and University of Utah. The network was wired together via 50 Kbps circuits. ARPAnet delivered its first message: a “node-to-node” communication from one computer to another. The message, “LOGIN”, was short and simple, but it crashed the fledgling ARPA network anyway: The recieving computer only received the note’s first two letters. <p>Backbones: 50Kbps ARPANET - Hosts: 4</p>",
+                "asset":
+                {
+                    "media":"../Images/History/arpanet.gif",
+                    "thumbnail":"../Images/History/arpanet.gif",
+                    "credit":"http://goo.gl/aovkRF",
+                    "caption":"The ARPANET Network in 1969"
+                }
+            },
+            {
+                "startDate":"1962",
+                "headline":"The Birth Of ARPANET",
+                "text":"Scientists and military experts were especially concerned about what might happen in the event of a Soviet attack on the nation’s telephone system. Just one missile, they feared, could destroy the whole network of lines and wires that made efficient long-distance communication possible. In 1962, a scientist from M.I.T. and ARPA named J.C.R. Licklider proposed a solution to this problem: a “galactic network” of computers that could talk to one another. Such a network would enable government leaders to communicate even if the Soviets destroyed the telephone system.",
+                "asset":
+                {
+                    "media":"../Images/History/licklider.jpg",
+                    "thumbnail":"../Images/History/licklider.jpg",
+                    "credit":"http://www.ibiblio.org/pioneers/licklider.html",
+                    "caption":"J.C.R. Licklider"
+                }
+            },
+            {
+                "startDate":"1972",
+                "headline":"Public Unveiling of ARPANET",
+                "text":"Robert Kahn exhibits the first public demonstration of the ARPANET at the International Computer Communication Conference. This public demonstration is also the first time that electronic mail (email) is exhibited and is a major catalyst for increasing interest in developing network technology. The first email programs called SNDMSG and READMAIL are written by Ray Tomlinson marking the beginning of one of the most widely used applications today.",
+                "asset":
+                {
+                    "media":"../Images/History/bobkahn.jpg",
+                    "thumbnail":"../Images/History/bobkahn.jpg",
+                    "credit":"http://www.wired.com/2012/08/bob-kahn-internet-hall-of-fame/",
+                    "caption":"Bob Kahn"
+                }
+            },
+            {
+                "startDate":"1973",
+                "headline":"TCP/IP",
+                "text":"Bob Kahn and Vinton Cerf helped to develop a networking protocol that would allow an open-architecture for multiple networks to be joined together. This protocol later emerged as the Transmission Control Protocol/Internet Protocol or TCP/IP. This new protocol would allow each individual network to stand alone such that if another network was brought down, it would not cause the collapse of all joined networks. Additionally, the new protocol conceptualized by Kahn and Cerf would involve no overall global manager and would join various networks together through what would later be known as routers and gateways.",
+                "asset":
+                {
+                    "media":"../Images/History/tcpip.png",
+                    "thumbnail":"../Images/History/tcpip.png",
+                    "credit":"http://tools.ietf.org/html/rfc675",
+                    "caption":"Front page of the TCP/IP protocol specification"
+                }
+            },
+            {
+                "startDate":"1977",
+                "headline":"The PC Modem",
+                "text":"1977 was a big year for the development of the Internet as we know it today. It’s the year the first PC modem, developed by Dennis Hayes and Dale Heatherington, was introduced and initially sold to computer hobbyists.",
+                "asset":
+                {
+                    "media":"../Images/History/pcmodem.jpg",
+                    "thumbnail":"../Images/History/pcmodem.jpg",
+                    "credit":"http://en.wikipedia.org/wiki/Hayes_Microcomputer_Products",
+                    "caption":"Dale Heatherington with the prototype 80-103A."
+                }
+            },
+            {
+                "startDate":"1978",
+                "headline":"Spam is Born",
+                "text":"1978 is also the year that brought the first unsolicited commercial email message (later known as spam), sent out to 600 California Arpanet users by Gary Thuerk.",
+                "asset":
+                {
+                    "media":"../Images/History/spam.jpg",
+                    "thumbnail":"../Images/History/spam.jpg",
+                    "credit":"https://i.imgflip.com/5s2ri.jpg",
+                    "caption":"Spam Meme"
+                }
+            },
+            {
+                "startDate":"1979",
+                "headline":"MUD – The earliest form of multiplayer games",
+                "text":"The precursor to World of Warcraft and Second Life was developed in 1979, and was called MUD (short for MultiUser Dungeon). MUDs were entirely text-based virtual worlds, combining elements of role-playing games, interactive, fiction, and online chat.",
+                "asset":
+                {
+                    "media":"../Images/History/mud.jpg",
+                    "thumbnail":"../Images/History/mud.jpg",
+                    "credit":"http://en.wikipedia.org/wiki/MUD",
+                    "caption":"MUD"
+                }
+            },
+            {
+                "startDate":"1979",
+                "headline":"Usenet",
+                "text":"1979 also ushered into the scene: Usenet, created by two graduate students. Usenet was an internet-based discussion system, allowing people from around the globe to converse about the same topics by posting public messages categorized by newsgroups.",
+                "asset":
+                {
+                    "media":"../Images/History/usenet.jpg",
+                    "thumbnail":"../Images/History/usenet.jpg",
+                    "credit":"http://usenetreviewz.com/how-usenet-looked-30-years-ago/",
+                    "caption":"Usenet in 1981"
+                }
+            },
+            {
+                "startDate":"1980",
+                "headline":"ENQUIRE Software",
+                "text":"The European Organization for Nuclear Research (better known as CERN) launched ENQUIRE (written by Tim Berners-Lee), a hypertext program that allowed scientists at the particle physics lab to keep track of people, software, and projects using hypertext (hyperlinks).",
+                "asset":
+                {
+                    "media":"../Images/History/enquire.jpeg",
+                    "thumbnail":"../Images/History/enquire.jpeg",
+                    "credit":"http://www.computerhistory.org/revolution/the-web/20/385/2109",
+                    "caption":"A page from the manual for ENQUIRE"
+                }
+            },
+            {
+                "startDate":"1984",
+                "headline":"Domain Name System (DNS)",
+                "text":"The domain name system was created in 1984 along with the first Domain Name Servers (DNS). The domain name system was important in that it made addresses on the Internet more human-friendly compared to its numerical IP address counterparts. DNS servers allowed Internet users to type in an easy-to-remember domain name and then converted it to the IP address automatically.",
+                "asset":
+                {
+                    "media":"../Images/History/dns.png",
+                    "thumbnail":"../Images/History/dns.png",
+                    "credit":"http://en.wikipedia.org/wiki/File:Domain_name_space.svg",
+                    "caption":"An early map of what DNS would look like"
+                }
+            },
+            {
+                "startDate":"1987",
+                "headline":"The Internet Grows",
+                "text":"By 1987, there were nearly 30,000 hosts on the Internet. The original Arpanet protocol had been limited to 1,000 hosts, but the adoption of the TCP/IP standard made larger numbers of hosts possible.",
+            },
+            {
+                "startDate":"1988",
+                "headline":"First major malicious internet-based attack",
+                "text":"One of the first major Internet worms was released in 1988. Referred to as The Morris Worm, it was written by Robert Tappan Morris and caused major interruptions across large parts of the Internet.",
+                "asset":
+                {
+                    "media":"../Images/History/morrisworm.jpg",
+                    "thumbnail":"../Images/History/morrisworm.jpg",
+                    "credit":"http://en.wikipedia.org/wiki/Morris_worm",
+                    "caption":"A floppy disk containing the source code for the Morris Worm"
+                }
+            },
+            {
+                "startDate":"1989",
+                "headline":"The proposal for the World Wide Web",
+                "text":"1989 brought about the proposal for the World Wide Web, written by Tim Berners-Lee. It was originally published in the March issue of MacWorld, and then redistributed in May 1990. It was written to persuade CERN that a global hypertext system was in CERN’s best interest. It was originally called Mesh; the term World Wide Web was coined while Berners-Lee was writing the code in 1990.",
+                "asset":
+                {
+                    "media":"../Images/History/www.gif",
+                    "thumbnail":"../Images/History/www.gif",
+                    "credit":"http://www.w3.org/History/1989/proposal-msw.html",
+                    "caption":"Information Management: A Proposal"
+                }
+            },
+            {
+                "startDate":"1991",
+                "headline":"First Web Page Created",
+                "text":"1991 brought some major innovations to the world of the Internet. The first web page was created and, much like the first email explained what email was, its purpose was to explain what the World Wide Web was.",
+                "asset":
+                {
+                    "media":"../Images/History/firstwww.png",
+                    "thumbnail":"../Images/History/firstwww.png",
+                    "credit":"http://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html",
+                    "caption":"The first ever website"
+                }
+            },
+            {
+                "startDate":"1993",
+                "headline":"Mosaic – first graphical web browser for the general public",
+                "text":"The first widely downloaded Internet browser, Mosaic, was released in 1993. While Mosaic wasn’t the first web browser, it is considered the first browser to make the Internet easily accessible to non-techies.",
+                "asset":
+                {
+                    "media":"../Images/History/mosaic.png",
+                    "thumbnail":"../Images/History/mosaic.png",
+                    "credit":"http://en.wikipedia.org/wiki/File:NCSA_Mosaic.PNG",
+                    "caption":"The first user-friendly web browser"
+                }
+            },
+            {
+                "startDate":"1995",
+                "headline":"Commercialization of the Internet",
+                "text":"1995 is often considered the first year the web became commercialized. While there were commercial enterprises online prior to ’95, there were a few key developments that happened that year. First, SSL (Secure Sockets Layer) encryption was developed by Netscape, making it safer to conduct financial transactions (like credit card payments) online. In addition, two major online businesses got their start the same year. The first sale on Echo Bay was made that year. Echo Bay later became eBay. Amazon.com also started in 1995, though it didn’t turn a profit for six years, until 2001.",
+            },
+            {
+                "startDate":"1995",
+                "headline":"The Creation of JavaScript",
+                "text":"JavaScript, not to be confused with Java, was created in 10 days in May 1995 by Brendan Eich, then working at Netscape and now of Mozilla. JavaScript was not always known as JavaScript: the original name was Mocha, a name chosen by Marc Andreessen, founder of Netscape. In September of 1995 the name was changed to LiveScript, then in December of the same year, upon receiving a trademark license from Sun, the name JavaScript was adopted. This was somewhat of a marketing move at the time, with Java being very popular around then.",
+                "asset":
+                {
+                    "media":"../Images/History/js.png",
+                    "thumbnail":"../Images/History/js.png",
+                    "credit":"http://www.thebestsecondgrade.com/",
+                    "caption":"The JavaScript logo"
+                }
+            },
+            {
+                "startDate":"1998",
+                "headline":"Google!",
+                "text":"Google went live in 1998, revolutionizing the way in which people find information online.",
+                "asset":
+                {
+                    "media":"../Images/History/google.png",
+                    "thumbnail":"../Images/History/google.png",
+                    "credit":"http://google.com",
+                    "caption":"The original Google homepage"
+                }
+            }
+        ]
+    }
+}

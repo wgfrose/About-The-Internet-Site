@@ -1,0 +1,51 @@
+body, html {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+	background-image: url("../Images/chicago.gif"); /* Image credit to Eric Hines at http://www.reddit.com/user/EricHinesPhotos */
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	color: #ffffff;
+	font-weight: 700;
+
+	-webkit-animation: fadein 5s; /* Safari, Chrome and Opera > 12.1 */
+  -ms-animation: fadein 5s; /* Internet Explorer */
+  animation: fadein 5s;
+}
+
+p {
+	text-align: center;
+	font-size: 15px;
+	color: #ffffff;
+
+	-webkit-animation: fadein 8s; /* Safari, Chrome and Opera > 12.1 */
+  -ms-animation: fadein 8s; /* Internet Explorer */
+  animation: fadein 8s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+.copyright {
+  position: fixed;
+  font-size: 10px;
+  bottom: 0;
+  right: 0;
+}
